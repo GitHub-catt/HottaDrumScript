@@ -1,0 +1,31 @@
+{
+  "title": "慢速摇滚抒情 (Slow Rock Ballad)",
+  "bpm": 70,
+  "notes": [
+    { "time": 0, "note": ["bass_drum", "ride_cymbal"] },
+    { "time": 857, "note": ["snare", "ride_cymbal"] },
+    { "time": 1714, "note": ["bass_drum", "ride_cymbal"] },
+    { "time": 2571, "note": ["snare", "ride_cymbal"] },
+
+    { "time": 3428, "note": ["bass_drum", "ride_cymbal"] },
+    { "time": 4285, "note": ["snare", "ride_cymbal"] },
+    { "time": 5142, "note": ["bass_drum", "ride_cymbal"] },
+    { "time": 6000, "note": ["snare", "ride_cymbal"] },
+    
+    { "time": 6857, "note": ["bass_drum", "ride_cymbal"] },
+    { "time": 7714, "note": ["snare", "ride_cymbal"] },
+    { "time": 8571, "note": ["bass_drum", "ride_cymbal"] },
+    { "time": 9428, "note": ["snare", "ride_cymbal"] },
+
+    { "time": 10285, "note": ["bass_drum", "crash_cymbal"] },
+    { "time": 10714, "note": ["bass_drum"], "probability": 0.6 },
+    { "time": 11142, "note": ["snare"] },
+    
+    { "time": 11571, "note": ["high_tom"] },
+    { "time": 12000, "note": ["high_tom"], "probability": 0.5 },
+    { "time": 12428, "note": ["low_tom"] },
+    { "time": 12857, "note": ["floor_tom"] },
+    { "time": 13285, "note": ["floor_tom"] },
+    { "time": 13714, "note": ["crash_cymbal"] }
+  ]
+} 

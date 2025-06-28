@@ -1,0 +1,3546 @@
+{
+  "title": "Ave Mujica - KILLKISS",
+  "bpm": 120,
+  "notes": [
+    {
+      "time": 0,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 150,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 300,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 450,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 600,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 900,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 1050,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 1200,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 1350,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 1500,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 1650,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 1800,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 1950,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 2100,
+      "note": [
+        "floor_tom"
+      ]
+    },
+    {
+      "time": 2175,
+      "note": [
+        "high_tom"
+      ]
+    },
+    {
+      "time": 2250,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 2325,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 2400,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 2550,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 2700,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 2850,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 3000,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 3150,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 3300,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 3450,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 3600,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 3750,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 3900,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 4050,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 4125,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 4200,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 4275,
+      "note": [
+        "high_tom"
+      ]
+    },
+    {
+      "time": 4350,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 4425,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 4500,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 4575,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 4650,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 4725,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 4800,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 4950,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 5100,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 5400,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 5550,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 5625,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 5700,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 5850,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 6000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 6150,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 6300,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 6450,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 6600,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 6750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 6900,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 7050,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 7125,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 7200,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 7350,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 7500,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 7800,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 7950,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 8025,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 8100,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 8250,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 8400,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 8550,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 8700,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 8850,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 8925,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 9000,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 9075,
+      "note": [
+        "high_tom"
+      ]
+    },
+    {
+      "time": 9150,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 9225,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 9300,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 9375,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 9450,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 9525,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 12000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 12150,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 12300,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 12600,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 12750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 12900,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 13050,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 13200,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 13350,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 13500,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 13650,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 13800,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 13950,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 14100,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 14400,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 14550,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 14700,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 15000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 15150,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 15300,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 15450,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 15600,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 15750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 15900,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 16050,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 16125,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 16200,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 16275,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 16350,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 16425,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 16500,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 16800,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 16950,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 17100,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 17400,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 17550,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 17700,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 17850,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 18000,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 18150,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 18225,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 18300,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 18450,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 18600,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 18750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 18900,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 19200,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 19350,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 19500,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 19800,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 19950,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 20100,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 20250,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 20400,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 20550,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 20700,
+      "note": [
+        "close_hi_hat",
+        "high_tom"
+      ]
+    },
+    {
+      "time": 20850,
+      "note": [
+        "floor_tom"
+      ]
+    },
+    {
+      "time": 20925,
+      "note": [
+        "floor_tom"
+      ]
+    },
+    {
+      "time": 21000,
+      "note": [
+        "floor_tom"
+      ]
+    },
+    {
+      "time": 21075,
+      "note": [
+        "high_tom"
+      ]
+    },
+    {
+      "time": 21150,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 21225,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 21300,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 21600,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 21750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 21900,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 22050,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 22200,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 22350,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 22500,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 22650,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 22800,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 22950,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 23100,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 23250,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 23325,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 23400,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 23550,
+      "note": [
+        "high_tom"
+      ]
+    },
+    {
+      "time": 23700,
+      "note": [
+        "floor_tom"
+      ]
+    },
+    {
+      "time": 23850,
+      "note": [
+        "high_tom"
+      ]
+    },
+    {
+      "time": 24000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 24150,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 24300,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 24600,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 24750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 24900,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 25050,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 25200,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 25350,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 25425,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 25500,
+      "note": [
+        "close_hi_hat",
+        "low_tom"
+      ]
+    },
+    {
+      "time": 25650,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 25800,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 25950,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 26100,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 26400,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 26550,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 26700,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 27000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 27150,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 27300,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 27450,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 27600,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 27750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 27825,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 27900,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 28050,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 28200,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 28350,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 28500,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 28800,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 28950,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 29100,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 29400,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 29550,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 29700,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 29850,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 30000,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 30150,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 30300,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 30450,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 30525,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 30600,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 30750,
+      "note": [
+        "high_tom"
+      ]
+    },
+    {
+      "time": 30900,
+      "note": [
+        "floor_tom"
+      ]
+    },
+    {
+      "time": 31050,
+      "note": [
+        "high_tom"
+      ]
+    },
+    {
+      "time": 31200,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 33450,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 33600,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 35550,
+      "note": [
+        "floor_tom"
+      ]
+    },
+    {
+      "time": 35700,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 36000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat",
+        "ride_cymbal"
+      ]
+    },
+    {
+      "time": 36075,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 36150,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 36225,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 36300,
+      "note": [
+        "bass_drum",
+        "ride_cymbal"
+      ]
+    },
+    {
+      "time": 36375,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 36450,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 36525,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 36600,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 36900,
+      "note": [
+        "bass_drum",
+        "ride_cymbal"
+      ]
+    },
+    {
+      "time": 37050,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 37200,
+      "note": [
+        "ride_cymbal"
+      ]
+    },
+    {
+      "time": 37350,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 37500,
+      "note": [
+        "bass_drum",
+        "ride_cymbal"
+      ]
+    },
+    {
+      "time": 37650,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 37725,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 37800,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 37950,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 38100,
+      "note": [
+        "ride_cymbal"
+      ]
+    },
+    {
+      "time": 38250,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 38400,
+      "note": [
+        "bass_drum",
+        "ride_cymbal"
+      ]
+    },
+    {
+      "time": 38475,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 38550,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 38625,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 38700,
+      "note": [
+        "bass_drum",
+        "ride_cymbal"
+      ]
+    },
+    {
+      "time": 38775,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 38850,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 38925,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 39000,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 39300,
+      "note": [
+        "bass_drum",
+        "ride_cymbal"
+      ]
+    },
+    {
+      "time": 39450,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 39600,
+      "note": [
+        "ride_cymbal"
+      ]
+    },
+    {
+      "time": 39750,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 39900,
+      "note": [
+        "bass_drum",
+        "ride_cymbal"
+      ]
+    },
+    {
+      "time": 40050,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 40200,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 40350,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 40500,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 40650,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 40800,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 40950,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 41100,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 41250,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 41400,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 41550,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 41700,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 41850,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 42000,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 42150,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 42300,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 42450,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 42600,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 42750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 42900,
+      "note": [
+        "floor_tom"
+      ]
+    },
+    {
+      "time": 42975,
+      "note": [
+        "high_tom"
+      ]
+    },
+    {
+      "time": 43050,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 43125,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 43200,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 43350,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 43500,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 43650,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 43800,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 43950,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 44100,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 44250,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 44400,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 44550,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 44700,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 44850,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 45000,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 45150,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 45300,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 45450,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 45525,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 45600,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 45750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 45900,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 46050,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 46200,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 46350,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 46500,
+      "note": [
+        "floor_tom",
+        "high_tom"
+      ]
+    },
+    {
+      "time": 46650,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 46800,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 46950,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 47100,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 47250,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 47400,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 47550,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 47700,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 47850,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 48000,
+      "note": [
+        "floor_tom",
+        "snare"
+      ]
+    },
+    {
+      "time": 48150,
+      "note": [
+        "floor_tom",
+        "snare"
+      ]
+    },
+    {
+      "time": 48450,
+      "note": [
+        "floor_tom",
+        "high_tom"
+      ]
+    },
+    {
+      "time": 48600,
+      "note": [
+        "floor_tom",
+        "high_tom"
+      ]
+    },
+    {
+      "time": 48900,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 49050,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 50250,
+      "note": [
+        "bass_drum",
+        "ride_cymbal"
+      ]
+    },
+    {
+      "time": 50550,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 50700,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 51000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 51150,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 51300,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 51450,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 51600,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 51750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 51825,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 51900,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 52200,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 52350,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 52500,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 52650,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 52800,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 52950,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 53025,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 53100,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 53400,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 53550,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 53700,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 53850,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 54000,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 54075,
+      "note": [
+        "high_tom"
+      ]
+    },
+    {
+      "time": 54150,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 54225,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 54300,
+      "note": [
+        "floor_tom"
+      ]
+    },
+    {
+      "time": 54375,
+      "note": [
+        "high_tom"
+      ]
+    },
+    {
+      "time": 54450,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 54525,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 54600,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 54675,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 54750,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 54825,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 54900,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 54975,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 55050,
+      "note": [
+        "bass_drum",
+        "ride_cymbal"
+      ]
+    },
+    {
+      "time": 55350,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 55500,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 55800,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 55950,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 56100,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 56250,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 56400,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 56550,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 56625,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 56700,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 57000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 57150,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 57300,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 57450,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 57600,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 57675,
+      "note": [
+        "high_tom"
+      ]
+    },
+    {
+      "time": 57750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 57825,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 57900,
+      "note": [
+        "floor_tom"
+      ]
+    },
+    {
+      "time": 57975,
+      "note": [
+        "high_tom"
+      ]
+    },
+    {
+      "time": 58050,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 58125,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 58200,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 58275,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 58350,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 58425,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 58500,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 58575,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 58650,
+      "note": [
+        "bass_drum",
+        "ride_cymbal"
+      ]
+    },
+    {
+      "time": 58950,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 59100,
+      "note": [
+        "bass_drum",
+        "ride_cymbal"
+      ]
+    },
+    {
+      "time": 59250,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 59400,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 59550,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 59700,
+      "note": [
+        "bass_drum",
+        "ride_cymbal"
+      ]
+    },
+    {
+      "time": 59850,
+      "note": [
+        "bass_drum",
+        "ride_cymbal"
+      ]
+    },
+    {
+      "time": 60150,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 60300,
+      "note": [
+        "bass_drum",
+        "ride_cymbal"
+      ]
+    },
+    {
+      "time": 60450,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 60525,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 60600,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 60750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 60900,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 61050,
+      "note": [
+        "bass_drum",
+        "ride_cymbal"
+      ]
+    },
+    {
+      "time": 61200,
+      "note": [
+        "bass_drum",
+        "ride_cymbal"
+      ]
+    },
+    {
+      "time": 61350,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 61500,
+      "note": [
+        "bass_drum",
+        "ride_cymbal"
+      ]
+    },
+    {
+      "time": 61650,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 61725,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 61800,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 61950,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 62100,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 62250,
+      "note": [
+        "bass_drum",
+        "ride_cymbal"
+      ]
+    },
+    {
+      "time": 64800,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 64950,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 65100,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 65250,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 65400,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 65550,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 65700,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 65850,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 66000,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 66150,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 66300,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 66450,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 66600,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 66750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 66900,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 67050,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 67200,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 67275,
+      "note": [
+        "high_tom"
+      ]
+    },
+    {
+      "time": 67350,
+      "note": [
+        "floor_tom"
+      ]
+    },
+    {
+      "time": 67425,
+      "note": [
+        "floor_tom"
+      ]
+    },
+    {
+      "time": 67500,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 67575,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 67650,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 67725,
+      "note": [
+        "high_tom"
+      ]
+    },
+    {
+      "time": 67800,
+      "note": [
+        "floor_tom"
+      ]
+    },
+    {
+      "time": 67875,
+      "note": [
+        "floor_tom"
+      ]
+    },
+    {
+      "time": 67950,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 68025,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 68100,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 68175,
+      "note": [
+        "high_tom"
+      ]
+    },
+    {
+      "time": 68250,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 68325,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 68400,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 69450,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 69525,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 69600,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 69750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 69900,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 70050,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 70200,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 70350,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 70500,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 70650,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 70800,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 70950,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 71100,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 71250,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 71400,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 71550,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 71700,
+      "note": [
+        "floor_tom"
+      ]
+    },
+    {
+      "time": 71775,
+      "note": [
+        "high_tom"
+      ]
+    },
+    {
+      "time": 71850,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 71925,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 72000,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 72150,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 72300,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 72450,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 72600,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 72750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 72900,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 73050,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 73200,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 73350,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 73500,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 73650,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 73725,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 73800,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 73875,
+      "note": [
+        "high_tom"
+      ]
+    },
+    {
+      "time": 73950,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 74025,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 74100,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 74175,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 74250,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 74325,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 74400,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 74550,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 74700,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 75000,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 75150,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 75225,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 75300,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 75450,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 75600,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 75750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 75900,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 76050,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 76200,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 76350,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 76425,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 76500,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 76650,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 76800,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 76950,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 77100,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 77250,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 77400,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 77550,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 77700,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 77850,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 77925,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 78000,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 78150,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 78225,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 78300,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 78450,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 78600,
+      "note": [
+        "floor_tom"
+      ]
+    },
+    {
+      "time": 78675,
+      "note": [
+        "high_tom"
+      ]
+    },
+    {
+      "time": 78750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 78825,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 78900,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 79050,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 79200,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 79350,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 79500,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 79650,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 79800,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 79950,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 80100,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 80250,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 80400,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 80550,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 80700,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 80850,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 80925,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 81000,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 81150,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 81225,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 81300,
+      "note": [
+        "bass_drum",
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 81375,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 81450,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 81525,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 81600,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 81750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 81900,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 82050,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 82200,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 82350,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 82500,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 82650,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 82800,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 82950,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 83025,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 83100,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 83250,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 83400,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 83550,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 83700,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    },
+    {
+      "time": 83850,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 83925,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 84000,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 84150,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 84300,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 84450,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 84600,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 84750,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 85050,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 85350,
+      "note": [
+        "floor_tom",
+        "high_tom"
+      ]
+    },
+    {
+      "time": 85500,
+      "note": [
+        "floor_tom",
+        "high_tom"
+      ]
+    },
+    {
+      "time": 85650,
+      "note": [
+        "floor_tom",
+        "high_tom"
+      ]
+    },
+    {
+      "time": 85800,
+      "note": [
+        "high_tom"
+      ]
+    },
+    {
+      "time": 85950,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 86100,
+      "note": [
+        "ride_cymbal",
+        "snare"
+      ]
+    }
+  ]
+}

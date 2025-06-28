@@ -1,0 +1,32 @@
+{
+  "title": "反拍雷鬼 (Off-beat Reggae)",
+  "bpm": 85,
+  "notes": [
+    { "time": 0, "note": ["close_hi_hat"] },
+    { "time": 353, "note": ["close_hi_hat"] },
+    { "time": 706, "note": ["bass_drum", "snare", "close_hi_hat"] },
+    { "time": 1059, "note": ["close_hi_hat"] },
+    { "time": 1235, "note": ["bass_drum"], "probability": 0.5 },
+    { "time": 1412, "note": ["close_hi_hat"] },
+    { "time": 1765, "note": ["close_hi_hat"] },
+    { "time": 2118, "note": ["bass_drum", "snare", "close_hi_hat"] },
+    { "time": 2471, "note": ["close_hi_hat"] },
+    { "time": 2824, "note": ["close_hi_hat"] },
+    { "time": 3176, "note": ["close_hi_hat"] },
+    { "time": 3529, "note": ["bass_drum", "snare", "close_hi_hat"] },
+    { "time": 3882, "note": ["close_hi_hat"] },
+    { "time": 4235, "note": ["close_hi_hat"] },
+    { "time": 4588, "note": ["close_hi_hat"] },
+    { "time": 4941, "note": ["bass_drum", "snare", "close_hi_hat"] },
+    { "time": 5294, "note": ["close_hi_hat"] },
+    { "time": 5471, "note": ["snare"], "probability": 0.3 },
+
+    { "time": 5647, "note": ["high_tom"] },
+    { "time": 6000, "note": ["low_tom"] },
+    { "time": 6353, "note": ["low_tom"] },
+    { "time": 6706, "note": ["snare"] },
+    { "time": 7059, "note": ["snare"] },
+    { "time": 7412, "note": ["snare"] },
+    { "time": 7765, "note": ["crash_cymbal"] }
+  ]
+} 

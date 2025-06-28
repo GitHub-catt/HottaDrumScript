@@ -1,0 +1,48 @@
+{
+  "title": "放克律动示例 (Funk Groove)",
+  "bpm": 105,
+  "notes": [
+    { "time": 0, "note": ["bass_drum", "close_hi_hat"] },
+    { "time": 286, "note": ["close_hi_hat"] },
+    { "time": 571, "note": ["snare", "close_hi_hat"] },
+    { "time": 857, "note": ["close_hi_hat"] },
+    { "time": 1000, "note": ["bass_drum"] },
+    { "time": 1143, "note": ["close_hi_hat"] },
+    { "time": 1428, "note": ["snare"] },
+    { "time": 1571, "note": ["close_hi_hat"], "probability": 0.8 },
+    { "time": 1714, "note": ["bass_drum"] },
+    { "time": 2000, "note": ["snare"], "probability": 0.4 },
+
+    { "time": 2286, "note": ["bass_drum", "close_hi_hat"] },
+    { "time": 2571, "note": ["close_hi_hat"] },
+    { "time": 2857, "note": ["snare", "close_hi_hat"] },
+    { "time": 3143, "note": ["close_hi_hat"] },
+    { "time": 3286, "note": ["bass_drum"] },
+    { "time": 3428, "note": ["close_hi_hat"] },
+    { "time": 3714, "note": ["snare"] },
+    { "time": 4000, "note": ["bass_drum"] },
+    { "time": 4286, "note": ["bass_drum"] },
+
+    { "time": 4571, "note": ["bass_drum", "ride_cymbal"] },
+    { "time": 4857, "note": ["ride_cymbal"] },
+    { "time": 5143, "note": ["snare", "ride_cymbal"] },
+    { "time": 5428, "note": ["ride_cymbal"] },
+    { "time": 5714, "note": ["ride_cymbal"] },
+    { "time": 6000, "note": ["snare"] },
+    { "time": 6143, "note": ["bass_drum"], "probability": 0.7 },
+    { "time": 6286, "note": ["ride_cymbal"] },
+    { "time": 6571, "note": ["snare", "ride_cymbal"] },
+    { "time": 6714, "note": ["snare"], "probability": 0.5 },
+
+    { "time": 6857, "note": ["bass_drum", "ride_cymbal"] },
+    { "time": 7143, "note": ["ride_cymbal"] },
+    { "time": 7428, "note": ["snare"] },
+    { "time": 7714, "note": ["high_tom"] },
+    { "time": 8000, "note": ["high_tom"] },
+    { "time": 8143, "note": ["low_tom"] },
+    { "time": 8286, "note": ["floor_tom"] },
+    { "time": 8571, "note": ["floor_tom"] },
+    { "time": 8857, "note": ["floor_tom"], "probability": 0.6 },
+    { "time": 9143, "note": ["crash_cymbal", "bass_drum"] }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+    "key_mapping": {
+      "crash_cymbal": "r",
+      "close_hi_hat": "e",
+      "high_tom": "g",
+      "snare": "s",
+      "bass_drum": "x",
+      "low_tom": "h",
+      "floor_tom": "j",
+      "ride_cymbal": "u"
+    },
+    "hotkeys": {
+      "start_stop": "f6",
+      "next_score": "f7",
+      "toggle_loop": "f8",
+      "toggle_variation": "f9"
+    }
+  } 

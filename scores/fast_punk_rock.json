@@ -1,0 +1,33 @@
+{
+  "title": "高速朋克摇滚 (Fast Punk Rock)",
+  "bpm": 180,
+  "notes": [
+    { "time": 0, "note": ["bass_drum", "close_hi_hat"] },
+    { "time": 166, "note": ["close_hi_hat"] },
+    { "time": 333, "note": ["snare", "close_hi_hat"] },
+    { "time": 500, "note": ["close_hi_hat"] },
+    { "time": 666, "note": ["bass_drum", "close_hi_hat"] },
+    { "time": 833, "note": ["close_hi_hat"] },
+    { "time": 1000, "note": ["snare", "close_hi_hat"] },
+    { "time": 1166, "note": ["close_hi_hat"] },
+    
+    { "time": 1333, "note": ["bass_drum", "close_hi_hat"] },
+    { "time": 1500, "note": ["close_hi_hat"] },
+    { "time": 1666, "note": ["snare", "close_hi_hat"] },
+    { "time": 1833, "note": ["close_hi_hat"] },
+    { "time": 2000, "note": ["bass_drum", "close_hi_hat"] },
+    { "time": 2166, "note": ["bass_drum", "close_hi_hat"] },
+    { "time": 2333, "note": ["snare", "close_hi_hat"] },
+    { "time": 2500, "note": ["close_hi_hat"] },
+    
+    { "time": 2666, "note": ["crash_cymbal", "bass_drum"] },
+    { "time": 3000, "note": ["snare"] },
+    { "time": 3333, "note": ["crash_cymbal", "bass_drum"] },
+    { "time": 3666, "note": ["snare"] },
+    { "time": 4000, "note": ["high_tom"] },
+    { "time": 4166, "note": ["low_tom"] },
+    { "time": 4333, "note": ["floor_tom"] },
+    { "time": 4500, "note": ["floor_tom"] },
+    { "time": 4666, "note": ["crash_cymbal"] }
+  ]
+} 

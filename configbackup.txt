@@ -1,0 +1,38 @@
+{
+  "key_mapping": {
+    "crash_cymbal": "a",
+    "close_hi_hat": "f",
+    "high_tom": "s",
+    "snare": "d",
+    "bass_drum": "space",
+    "low_tom": "j",
+    "floor_tom": "l",
+    "ride_cymbal": "k"
+  },
+  "hotkeys": {
+    "start_stop": "f6",
+    "next_score": "f7",
+    "toggle_loop": "f8",
+    "toggle_variation": "f9"
+  }
+} 
+
+
+{
+  "key_mapping": {
+    "crash_cymbal": "r",
+    "close_hi_hat": "e",
+    "high_tom": "g",
+    "snare": "s",
+    "bass_drum": "x",
+    "low_tom": "h",
+    "floor_tom": "j",
+    "ride_cymbal": "u"
+  },
+  "hotkeys": {
+    "start_stop": "f6",
+    "next_score": "f7",
+    "toggle_loop": "f8",
+    "toggle_variation": "f9"
+  }
+} 

@@ -1,0 +1,33 @@
+{
+  "title": "复杂摇滚加花示例",
+  "bpm": 120,
+  "notes": [
+    { "time": 0, "note": ["bass_drum", "close_hi_hat"] },
+    { "time": 250, "note": ["close_hi_hat"] },
+    { "time": 500, "note": ["snare", "close_hi_hat"] },
+    { "time": 750, "note": ["close_hi_hat"] },
+    { "time": 1000, "note": ["bass_drum", "close_hi_hat"] },
+    { "time": 1250, "note": ["bass_drum"] },
+    { "time": 1500, "note": ["snare", "close_hi_hat"] },
+    { "time": 1750, "note": ["close_hi_hat"] },
+
+    { "time": 2000, "note": ["bass_drum", "close_hi_hat"] },
+    { "time": 2250, "note": ["close_hi_hat"] },
+    { "time": 2500, "note": ["snare", "close_hi_hat"] },
+    { "time": 2750, "note": ["close_hi_hat"] },
+    { "time": 3000, "note": ["bass_drum", "close_hi_hat"] },
+    { "time": 3250, "note": ["bass_drum"] },
+    { "time": 3500, "note": ["snare", "close_hi_hat"] },
+    { "time": 3750, "note": ["snare"] },
+
+    { "time": 4000, "note": ["high_tom"] },
+    { "time": 4125, "note": ["high_tom"] },
+    { "time": 4250, "note": ["low_tom"] },
+    { "time": 4375, "note": ["low_tom"] },
+    { "time": 4500, "note": ["floor_tom"] },
+    { "time": 4625, "note": ["floor_tom"] },
+    { "time": 4750, "note": ["floor_tom"] },
+
+    { "time": 5000, "note": ["crash_cymbal", "bass_drum"] }
+  ]
+} 
