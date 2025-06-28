@@ -1,0 +1,6435 @@
+{
+  "title": "Blue",
+  "bpm": 120,
+  "notes": [
+    {
+      "time": 0,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 375,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 2000,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 2375,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 2750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 3500,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 3750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 3875,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 4000,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 4375,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 4750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 5500,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 5625,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 5750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 5875,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 6000,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 6375,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 6750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 8000,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 8375,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 8750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 10000,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 10375,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 10750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 11500,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 11750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 11875,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 12000,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 12375,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 12750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 13500,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 13625,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 13750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 13875,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 14000,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 14375,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 14750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 16000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 16250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 16500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 16750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 17000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 17250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 17500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 17750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 18000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 18250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 18500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 18750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 19000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 19250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 19500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 19750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 20000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 20250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 20500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 20750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 21000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 21250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 21500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 21750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 22000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 22250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 22500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 22750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 23000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 23250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 23500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 23750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 24000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 24250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 24500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 24750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 25000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 25250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 25500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 25750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 26000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 26250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 26500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 26750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 27000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 27250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 27500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 27750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 28000,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 44000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 44250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 44500,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 44750,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 45000,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 45250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 45500,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 45750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 46000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 46250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 46375,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 46500,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 46750,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 47000,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 47250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 47500,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 47750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 48000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 48250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 48500,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 48750,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 49000,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 49250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 49500,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 49750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 50000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 50250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 50375,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 50500,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 50750,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 51000,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 51250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 51500,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 51750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 52000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 52250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 52500,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 52750,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 53000,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 53250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 53500,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 53750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 54000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 54250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 54375,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 54500,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 54750,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 55000,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 55250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 55500,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 55750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 56000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 56250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 56500,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 56750,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 57000,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 57250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 57500,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 57750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 58000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 58250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 58375,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 58500,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 58750,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 59000,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 59250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 59500,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 59750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 60000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 60250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 60500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 60750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 61000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 61250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 61500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 61750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 62000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 62250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 62500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 62750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 63000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 63250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 63500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 63750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 64000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 64250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 64500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 64750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 65000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 65250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 65500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 65750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 66000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 66250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 66500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 66750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 67000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 67250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 67500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 67750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 68000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 68250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 68500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 68750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 69000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 69250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 69500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 69750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 70000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 70250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 70500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 70750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 71000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 71250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 71500,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 71625,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 71750,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 71875,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 72000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 72250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 72500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 72750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 73000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 73250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 73500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 73750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 74000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 74250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 74500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 74750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 75000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 75250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 75500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 75750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 76000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 76250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 76500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 76750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 77000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 77250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 77500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 77750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 78000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 78250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 78500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 78750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 79000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 79250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 79500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 79625,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 79750,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 79875,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 80000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 80250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 80500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 80750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 81000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 81250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 81500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 81750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 82000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 82250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 82500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 82750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 83000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 83250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 83500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 83625,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 83750,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 83875,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 84000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 84250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 84500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 84750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 85000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 85250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 85500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 85750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 86000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 86250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 86500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 86750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 87000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 87250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 87500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 87750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 88000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 88250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 88500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 88750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 89000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 89250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 89500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 89750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 90000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 90250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 90500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 90750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 91000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 91250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 91500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 91750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 92000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 92250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 92500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 92750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 93000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 93250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 93500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 93750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 94000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 94250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 94500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 94750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 95000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 95250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 95500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 95750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 96000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 96250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 96500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 96750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 97000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 97250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 97500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 97750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 98000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 98250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 98500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 98750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 99000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 99250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 99500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 99750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 100000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 100250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 100500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 100750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 101000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 101250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 101500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 101750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 102000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 102250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 102500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 102750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 103000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 103250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 103500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 103750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 104000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 104250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 104500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 104750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 105000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 105250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 105500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 105750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 106000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 106250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 106500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 106750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 107000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 107250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 107500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 107750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 108000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 108250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 108500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 108750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 109000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 109250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 109500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 109750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 110000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 110250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 110500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 110750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 111000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 111250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 111500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 111750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 112000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 112250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 112500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 112750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 113000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 113250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 113500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 113750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 114000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 114250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 114500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 114750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 115000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 115250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 115500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 115750,
+      "note": [
+        "close_hi_hat",
+        "snare"
+      ]
+    },
+    {
+      "time": 116000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 116250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 116500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 116750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 117000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 117250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 117500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 117750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 118000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 118250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 118500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 118750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 119000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 119250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 119500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 119750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 120000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 120250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 120500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 120750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 121000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 121250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 121500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 121750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 122000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 122250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 122500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 122750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 123000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 123250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 123500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 123750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 124000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 124250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 124500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 124750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 125000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 125250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 125500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 125750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 126000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 126250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 126500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 126750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 127000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 127250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 127500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 127750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 128000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 128250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 128500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 128750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 129000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 129250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 129500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 129750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 130000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 130250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 130500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 130750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 131000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 131250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 131500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 131750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 132000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 132250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 132500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 132750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 133000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 133250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 133500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 133750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 134000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 134250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 134500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 134750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 135000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 135250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 135500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 135750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 136000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 136250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 136500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 136750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 137000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 137250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 137500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 137750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 138000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 138250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 138500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 138750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 139000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 139250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 139500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 139750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 140000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 140250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 140500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 140750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 141000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 141250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 141500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 141750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 142000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 142250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 142500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 142750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 143000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 143250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 144000,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 144375,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 144750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 146250,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 146625,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 147000,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 147500,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 147750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 147875,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 148000,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 148250,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 148500,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 148750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 149250,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 149625,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 149750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 150000,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 150375,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 150500,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 150542,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 150583,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 150625,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 150667,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 150708,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 150750,
+      "note": [
+        "bass_drum",
+        "snare"
+      ]
+    },
+    {
+      "time": 150792,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 150833,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 150875,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 150917,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 150958,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 151000,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 151250,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 151500,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 151625,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 151750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 151875,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 152000,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 152375,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 152750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 154250,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 154625,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 155000,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 155500,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 155750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 155875,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 156000,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 156250,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 156500,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 156750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 157250,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 157625,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 157875,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 158250,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 158500,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 158542,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 158583,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 158625,
+      "note": [
+        "bass_drum",
+        "snare"
+      ]
+    },
+    {
+      "time": 158667,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 158708,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 158750,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 158792,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 158833,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 158875,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 158917,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 158958,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 159000,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 159250,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 159500,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 159625,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 159750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 159875,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 160000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 160250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 160500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 160750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 161000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 161250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 161500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 161750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 162000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 162250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 162500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 162750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 163000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 163250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 163500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 163750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 164000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 164250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 164500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 164750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 165000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 165250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 165500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 165750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 166000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 166250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 166500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 166750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 167000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 167250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 167500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 167750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 168000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 168250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 168500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 168750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 169000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 169250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 169500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 169750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 170000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 170250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 170500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 170750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 171000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 171250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 171500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 171750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 172000,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 172375,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 172750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 174000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 174250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 174500,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 174750,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 175000,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 175250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 175500,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 175750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 176000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 176250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 176375,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 176500,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 176750,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 177000,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 177250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 177500,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 177750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 178000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 178250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 178500,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 178750,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 179000,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 179250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 179500,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 179750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 180000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 180250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 180375,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 180500,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 180750,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 181000,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 181250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 181500,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 181750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 182000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 182250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 182500,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 182750,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 183000,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 183250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 183500,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 183750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 184000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 184250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 184375,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 184500,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 184750,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 185000,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 185250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 185500,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 185750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 186000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 186250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 186500,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 186750,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 187000,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 187250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 187500,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 187750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 188000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 188250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 188375,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 188500,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 188750,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 189000,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 189250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 189500,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 189750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 190000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 190250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 190500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 190750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 191000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 191250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 191500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 191750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 192000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 192250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 192500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 192750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 193000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 193250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 193500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 193750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 194000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 194250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 194500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 194750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 195000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 195250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 195500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 195750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 196000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 196250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 196500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 196750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 197000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 197250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 197500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 197750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 198000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 198250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 198500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 198750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 199000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 199250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 199500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 199750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 200000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 200250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 200500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 200750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 201000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 201250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 201500,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 201625,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 201750,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 201875,
+      "note": [
+        "snare"
+      ]
+    },
+    {
+      "time": 202000,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 202250,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 202500,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 202750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 203000,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 203125,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 203250,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 203375,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 203500,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 203625,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 203750,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 204250,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 204500,
+      "note": [
+        "bass_drum"
+      ]
+    },
+    {
+      "time": 205000,
+      "note": [
+        "crash_cymbal"
+      ]
+    },
+    {
+      "time": 206000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 206250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 206500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 206750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 207000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 207250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 207500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 207750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 208000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 208250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 208500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 208750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 209000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 209250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 209500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 209750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 210000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 210250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 210500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 210750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 211000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 211250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 211500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 211750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 212000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 212250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 212500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 212750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 213000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 213250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 213500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 213750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 214000,
+      "note": [
+        "bass_drum",
+        "crash_cymbal"
+      ]
+    },
+    {
+      "time": 214250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 214500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 214750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 215000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 215250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 215500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 215750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 216000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 216250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 216500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 216750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 217000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 217250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 217500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 217750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 218000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 218250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 218500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 218750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 219000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 219250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 219500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 219750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 220000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 220250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 220500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 220750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 221000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 221250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 221500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 221750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 222000,
+      "note": [
+        "bass_drum",
+        "crash_cymbal"
+      ]
+    },
+    {
+      "time": 222250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 222500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 222750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 223000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 223250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 223500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 223750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 224000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 224250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 224500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 224750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 225000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 225250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 225500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 225750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 226000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 226250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 226500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 226750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 227000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 227250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 227500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 227750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 228000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 228250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 228500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 228750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 229000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 229250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 229500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 229750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 230000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 230250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 230500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 230750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 231000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 231250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 231500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 231750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 232000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 232250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 232500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 232750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 233000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 233250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 233500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 233750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 234000,
+      "note": [
+        "bass_drum",
+        "crash_cymbal"
+      ]
+    },
+    {
+      "time": 234250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 234500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 234750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 235000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 235250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 235500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 235750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 236000,
+      "note": [
+        "bass_drum",
+        "crash_cymbal"
+      ]
+    },
+    {
+      "time": 236250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 236500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 236750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 237000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 237250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 237500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 237750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 238000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 238250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 238500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 238750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 239000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 239250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 239500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 239750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 240000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 240250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 240500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 240750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 241000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 241250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 242000,
+      "note": [
+        "bass_drum",
+        "crash_cymbal"
+      ]
+    },
+    {
+      "time": 242250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 242500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 242750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 243000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 243250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 243500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 243750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 244000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 244250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 244500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 244750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 245000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 245250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 245500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 245750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 246000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 246250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 246500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 246750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 247000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 247250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 247500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 247750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 248000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 248250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 248500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 248750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 249000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 249250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 249500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 249750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 250000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 250250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 250500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 250750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 251000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 251250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 251500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 251750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 252000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 252250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 252500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 252750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 253000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 253250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 253500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 253750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 254000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 254250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 254500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 254750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 255000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 255250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 255500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 255750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 256000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 256250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 256500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 256750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 257000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 257250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 257500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 257750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 258000,
+      "note": [
+        "bass_drum",
+        "crash_cymbal"
+      ]
+    },
+    {
+      "time": 258250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 258500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 258750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 259000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 259250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 259500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 259750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 260000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 260250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 260500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 260750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 261000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 261250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 261500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 261750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 262000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 262250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 262500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 262750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 263000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 263250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 263500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 263750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 264000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 264250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 264500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 264750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 265000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 265250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 265500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 265750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 266000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 266250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 266500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 266750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 267000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 267250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 267500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 267750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 268000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 268250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 268500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 268750,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 269000,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 269250,
+      "note": [
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 269500,
+      "note": [
+        "bass_drum",
+        "close_hi_hat"
+      ]
+    },
+    {
+      "time": 269750,
+      "note": [
+        "close_hi_hat"
+      ]
+    }
+  ]
+}

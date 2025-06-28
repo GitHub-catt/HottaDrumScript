@@ -26,29 +26,43 @@ class HotkeyListener(QObject):
     toggle_loop_triggered = Signal()
     toggle_variation_triggered = Signal()
 
+    def __init__(self):
+        super().__init__()
+        self.active_hotkeys = []
+
     @Slot()
     def register_hotkeys(self):
         """
         读取配置文件，清除旧热键并注册新热键。
         这是一个槽函数，可以被主线程的信号安全地调用。
         """
-        keyboard.remove_all_hotkeys()
+        # 逐个移除之前注册的热键
+        for hotkey in self.active_hotkeys:
+            try:
+                keyboard.remove_hotkey(hotkey)
+            except KeyError:
+                # 如果热键因为某些原因已经不存在，就忽略错误
+                pass
+        self.active_hotkeys.clear()
+        
         try:
             with open('config.json', 'r', encoding='utf-8') as f:
                 config = json.load(f)
             hotkeys = config.get('hotkeys', {})
 
+            def add_and_track(key, callback):
+                """一个辅助函数，用于添加热键并追踪它"""
+                if key:
+                    keyboard.add_hotkey(key, callback)
+                    self.active_hotkeys.append(key)
+            
             # 为每个动作注册热键，并关联到对应的信号发射
-            if hotkeys.get('start_stop'):
-                keyboard.add_hotkey(hotkeys['start_stop'], self.start_stop_triggered.emit)
-            if hotkeys.get('next_score'):
-                keyboard.add_hotkey(hotkeys['next_score'], self.next_score_triggered.emit)
-            if hotkeys.get('toggle_loop'):
-                keyboard.add_hotkey(hotkeys['toggle_loop'], self.toggle_loop_triggered.emit)
-            if hotkeys.get('toggle_variation'):
-                keyboard.add_hotkey(hotkeys['toggle_variation'], self.toggle_variation_triggered.emit)
+            add_and_track(hotkeys.get('start_stop'), self.start_stop_triggered.emit)
+            add_and_track(hotkeys.get('next_score'), self.next_score_triggered.emit)
+            add_and_track(hotkeys.get('toggle_loop'), self.toggle_loop_triggered.emit)
+            add_and_track(hotkeys.get('toggle_variation'), self.toggle_variation_triggered.emit)
 
-            print(f"热键已更新: {hotkeys}")
+            print(f"热键已更新: {self.active_hotkeys}")
         except Exception as e:
             print(f"注册热键时出错: {e}")
 
